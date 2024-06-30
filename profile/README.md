@@ -55,6 +55,7 @@
 [wms-book](https://github.com/ssg-java3-240304/wms-book)
 
 ## Mini Project - 쇼핑몰 관리자 관점
+[모아보기] [shop_workspace](https://github.com/ssg-java3-240304/shop_workspace)
 
 [shop-Kick-n-Go](https://github.com/ssg-java3-240304/shop-Kick-n-Go)
 
