@@ -20,6 +20,8 @@
 
 [spring_workspace](https://github.com/ssg-java3-240304/spring_workspace)
 
+[jpa_workspace](https://github.com/ssg-java3-240304/jpa_workspace)
+
 ## 객체지향 팀실습
 [oop-metro](https://github.com/ssg-java3-240304/oop-metro)
 
