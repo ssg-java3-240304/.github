@@ -67,6 +67,12 @@
 
 [shop-Animal-Playground](https://github.com/ssg-java3-240304/shop-Animal-Playground)
 
+## Extra Mini Project - 스프링이 아니면 죽음을
+
+[spring-or-death](https://github.com/ssg-java3-240304/spring-or-death)
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
