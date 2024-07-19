@@ -7,7 +7,7 @@
 
 [Ready? Auction!](https://github.com/ssg-java3-240304/Ready-Auction)
 
-[myseatdang](https://github.com/ssg-java3-240304/myseatdang)
+[my-seat-dang](https://github.com/ssg-java3-240304/myseatdang)
 
 [PetTopia](https://github.com/ssg-java3-240304/PetTopia.git)
 
