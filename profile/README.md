@@ -2,8 +2,8 @@
 [우리반 Notion Page](https://shqkel.notion.site/84fdf92094824374862bc7bf041ba48f?v=db0ef3cb07a04635ace689f9f2c6a659&pvs=74)
 
 
-## Final Project 
-[모아보기][final_workspace](https://github.com/ssg-java3-240304/final_workspace)
+## Final Project ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+[모아보기] [final_workspace](https://github.com/ssg-java3-240304/final_workspace)
 
 [Ready? Auction!](https://github.com/ssg-java3-240304/Ready-Auction)
 
