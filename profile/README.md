@@ -1,6 +1,11 @@
 # 신세계I&C  K-디지털 트레이닝 JAVA 기반 백엔드 개발자 양성 3회차 👋
 [우리반 Notion Page](https://shqkel.notion.site/84fdf92094824374862bc7bf041ba48f?v=db0ef3cb07a04635ace689f9f2c6a659&pvs=74)
 
+
+## Final Project 
+[up-and-down](https://github.com/ssg-java3-240304/up-and-down)
+
+
 ## 수업자료 저장소
 [java_workspace](https://github.com/ssg-java3-240304/java_workspace)
 
@@ -70,8 +75,6 @@
 ## Extra Mini Project - 스프링이 아니면 죽음을
 
 [spring-or-death](https://github.com/ssg-java3-240304/spring-or-death)
-
-
 
 <!--
 
