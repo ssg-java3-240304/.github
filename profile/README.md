@@ -3,6 +3,7 @@
 
 
 ## Final Project ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+
 [모아보기] [final_workspace](https://github.com/ssg-java3-240304/final_workspace)
 
 [Ready? Auction!](https://github.com/ssg-java3-240304/Ready-Auction)
@@ -12,6 +13,8 @@
 [PetTopia](https://github.com/ssg-java3-240304/PetTopia.git)
 
 [up-and-down](https://github.com/ssg-java3-240304/up-and-down)
+
+[demo 참고하세요 😄](https://github.com/ssg-java3-240304/demo)
 
 ## 수업자료 저장소
 [java_workspace](https://github.com/ssg-java3-240304/java_workspace)
