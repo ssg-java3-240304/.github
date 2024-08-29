@@ -4,17 +4,27 @@
 
 ## Final Project ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
 
-[모아보기] [final_workspace](https://github.com/ssg-java3-240304/final_workspace)
-
-[Ready? Auction!](https://github.com/ssg-java3-240304/Ready-Auction)
-
-[my-seat-dang](https://github.com/ssg-java3-240304/myseatdang)
-
-[PetTopia](https://github.com/ssg-java3-240304/PetTopia.git)
-
-[up-and-down](https://github.com/ssg-java3-240304/up-and-down) &nbsp;&nbsp; [up-and-down-data(Spring Batch, ElasticSearch)](https://github.com/dhgudehd98/up-data-server)
-
 [demo 참고하세요 😄](https://github.com/ssg-java3-240304/demo)
+
+### Ready? Action!
+| [Repo](https://github.com/ssg-java3-240304/Ready-Auction) | [Sprint Board](https://github.com/orgs/ssg-java3-240304/projects/36/views/1) | [Milestones](https://github.com/ssg-java3-240304/Ready-Auction/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/Ready-Auction/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
+|-----------------------------------------------------------|------------------|----------------|-----------------|
+
+
+### 마싯당
+| [Repo](https://github.com/ssg-java3-240304/my-seat-dang) | [Sprint Board](https://github.com/orgs/ssg-java3-240304/projects/28) | [Milestones](https://github.com/ssg-java3-240304/my-seat-dang/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/my-seat-dang/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
+|-----------------------------------------------------------|------------------|----------------|-----------------|
+
+### PetTopia
+| [Repo](https://github.com/ssg-java3-240304/PetTopia) | [Sprint Board](https://github.com/orgs/ssg-java3-240304/projects/32) | [Milestones](https://github.com/ssg-java3-240304/PetTopia/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/PetTopia/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
+|-----------------------------------------------------------|------------------|----------------|-----------------|
+
+### Up
+| [Repo](https://github.com/ssg-java3-240304/up-and-down) &nbsp;&nbsp; [Data Server Repo](https://github.com/dhgudehd98/up-data-server) | [Sprint Board](https://github.com/orgs/ssg-java3-240304/projects/33/views/1) | [Milestones](https://github.com/ssg-java3-240304/up-and-down/milestones?direction=asc&sort=due_date&state=open) | [Bug Reports](https://github.com/ssg-java3-240304/up-and-down/issues?q=is%3Aissue+label%3Abug+is%3Aopen) |  
+|-----------------------------------------------------------|------------------|----------------|-----------------|
+
+
+
 
 ## 수업자료 저장소
 [java_workspace](https://github.com/ssg-java3-240304/java_workspace)
