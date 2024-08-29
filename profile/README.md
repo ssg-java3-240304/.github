@@ -12,7 +12,7 @@
 
 [PetTopia](https://github.com/ssg-java3-240304/PetTopia.git)
 
-[up-and-down](https://github.com/ssg-java3-240304/up-and-down)
+[up-and-down](https://github.com/ssg-java3-240304/up-and-down) &nbsp;&nbsp; [up-and-down-data(Spring Batch, ElasticSearch)](https://github.com/dhgudehd98/up-data-server)
 
 [demo 참고하세요 😄](https://github.com/ssg-java3-240304/demo)
 
